@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Døgn beregnet";
+
+"today" = "I dag";
+"1day" = "dag";
+"2days" = "dager";
+"days" = "dager";
+
+"y1" = "år";
+"y2" = "år";
+"ys" = "år";
+"m1" = "måned";
+"m2" = "måneder";
+"ms" = "måneder";
+"w1" = "uke";
+"w2" = "uker";
+"ws" = "uker";
+
+// Settings
+"title_text" = "Døgn beregnet fungerer med datoen og dager";
+"description1" = "Vanligvis telles dager i henhold til følgende:\n«Fra i dag til i morgen er det 1 dag»";
+"description2" = "Noen ganger er det nødvendig \nå beregne en annen metode.";
+"description3" = "«I dag og i morgen er 2 dager»";
+"description4" = "«Mellom i dag og i morgen finns det 0 dager»";
+"choose_method" = "Velg beregningsmetode:";
+
+"hint0" = "Fra i dag til i morgen er det 1 dag";
+"hint1" = "I dag og i morgen er 2 dager";
+"hint2" = "Mellom i dag og i morgen finns det 0 dager";
+
+"days_mode" = "Vise";
+"days_only" = "Dager";
+"weeks" = "Uker";
+"years" = "År";
+
+// More view
+"show_appstore" = "Visa i AppStore";
+"version" = "version:";
+"rate_app" = "Vurder appen";
+"other_apps" = "Våre andre apper";

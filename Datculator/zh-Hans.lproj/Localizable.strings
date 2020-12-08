@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "天数计算器";
+
+"today" = "今天";
+"1day" = "天";
+"2days" = "天";
+"days" = "天";
+
+"y1" = "年";
+"y2" = "年";
+"ys" = "年";
+"m1" = "月";
+"m2" = "月";
+"ms" = "月";
+"w1" = "周";
+"w2" = "周";
+"ws" = "周";
+
+// Settings
+"title_text" = "天数计算器 能使用日期和天数进行操作";
+"description1" = "一般上，天数会依据如此进行计算\n“从今天至明天是1天”";
+"description2" = "有时有必要使用另一种方法进行计数。";
+"description3" = "“今天和明天是2天”";
+"description4" = "“今天和明天之间是0天”";
+"choose_method" = "选择计算的方式：";
+
+"hint0" = "从今天至明天是1天";
+"hint1" = "今天和明天是2天";
+"hint2" = "今天和明天之间是0天";
+
+"days_mode" = "显示单位";
+"days_only" = "天";
+"weeks" = "周";
+"years" = "年";
+
+// More view
+"show_appstore" = "在AppStore中显示";
+"version" = "版本:";
+"rate_app" = "评价应用";
+"other_apps" = "我们的其他应用";

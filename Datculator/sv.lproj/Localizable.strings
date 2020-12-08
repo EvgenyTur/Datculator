@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Beräkna dagar";
+
+"today" = "Idag";
+"1day" = "dag";
+"2days" = "dagar";
+"days" = "dagar";
+
+"y1" = "år";
+"y2" = "år";
+"ys" = "år";
+"m1" = "månad";
+"m2" = "månader";
+"ms" = "månader";
+"w1" = "vecka";
+"w2" = "veckor";
+"ws" = "veckor";
+
+// Settings
+"title_text" = "Beräkna dagar fungerar med datum och dagar";
+"description1" = "Vanligtvis räknas dagarna enligt följande:\n»Från idag till imorgon är det 1 dag«";
+"description2" = "Ibland är det nödvändigt att beräkna på en annan metod.";
+"description3" = "»Idag och imorgon är 2 dagar«";
+"description4" = "»Mellan idag och imorgon finns det 0 dagar«";
+"choose_method" = "Välj beräkningsmetod:";
+
+"hint0" = "Från idag till imorgon är det 1 dag";
+"hint1" = "Idag och imorgon är 2 dagar";
+"hint2" = "Mellan idag och imorgon finns det 0 dagar";
+
+"days_mode" = "Visa";
+"days_only" = "Dagar";
+"weeks" = "Veckor";
+"years" = "År";
+
+// More view
+"show_appstore" = "Visa i AppStore";
+"version" = "version:";
+"rate_app" = "Betygsätt appen";
+"other_apps" = "Våre andre apper...";

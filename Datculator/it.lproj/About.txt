@@ -1,0 +1,7 @@
+ ‣ aggiunge il numero di giorni alla data specificata e trova la nuova data
+ ‣ trova la differenza tra due date in numero di giorni, settimane o anni
+
+Salva anche le ultime date calcolate e le aggiorna al momento del lancio, cosi saprete:
+ ‣ quale data sarà dopo un determinato periodo di giorni
+ ‣ quanti giorni restano fino alla data specifica
+ ‣ quanti giorni sono trascorsi da quella data

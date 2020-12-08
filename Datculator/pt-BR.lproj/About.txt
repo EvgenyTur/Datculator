@@ -1,0 +1,7 @@
+‣ acrescenta o número de dias à data especificada e encontra a data nova
+‣ deteta a diferença entre duas datas em número de dias
+
+Também guarda as últimas datas calculadas e atualiza-as durante o arranque – saberá:
+‣ que data será após um período de dias específico
+‣ quantos dias restam até à data especificada
+‣ quantos dias passaram desde a data especificada

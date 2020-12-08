@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Days calc";
+
+"today" = "Today";
+"1day" = "day";
+"2days" = "days";
+"days" = "days";
+
+"y1" = "year";
+"y2" = "years";
+"ys" = "years";
+"m1" = "month";
+"m2" = "months";
+"ms" = "months";
+"w1" = "week";
+"w2" = "weeks";
+"ws" = "weeks";
+
+// Settings
+"title_text" = "Days calc operates using dates and days";
+"description1" = "Usually, days are counted according to the following:\n“From today to tomorrow is 1 day”";
+"description2" = "Sometimes it is necessary \nto count by another method";
+"description3" = "“Today and tomorrow are 2 days”";
+"description4" = "“Between today and tomorrow there are 0 days”";
+"choose_method" = "Choose calc method:";
+
+"hint0" = "From today to tomorrow is 1 day";
+"hint1" = "Today and tomorrow are 2 days";
+"hint2" = "Between today and tomorrow there are 0 days";
+
+"days_mode" = "Show";
+"days_only" = "Days";
+"weeks" = "Weeks";
+"years" = "Years";
+
+// More view
+"show_appstore" = "Show in AppStore";
+"version" = "version:";
+"rate_app" = "Rate the app";
+"other_apps" = "Our other apps";

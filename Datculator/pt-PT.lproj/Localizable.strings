@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Сalc de Dias";
+
+"today" = "Hoje";
+"1day" = "dia";
+"2days" = "dias";
+"days" = "dias";
+
+"y1" = "ano";
+"y2" = "anos";
+"ys" = "anos";
+"m1" = "mês";
+"m2" = "meses";
+"ms" = "meses";
+"w1" = "semana";
+"w2" = "semanas";
+"ws" = "semanas";
+
+// Settings
+"title_text" = "O Calc de dias opera com datas e dias.";
+"description1" = "Geralmente, os dias são contados de acordo com\n«De hoje para amanhã é 1 dia».";
+"description2" = "Por vezes, é necessário contar \natravés de outro método.";
+"description3" = "«Hoje e amanhã são 2 dias».";
+"description4" = "«Entre hoje e amanhã são 0 dias».";
+"choose_method" = "Escolher o método de cálculo:";
+
+"hint0" = "De hoje para amanhã é 1 dia";
+"hint1" = "Hoje e amanhã são 2 dias";
+"hint2" = "Entre hoje e amanhã são 0 dias";
+
+"days_mode" = "Exibir";
+"days_only" = "Dias";
+"weeks" = "Semanas";
+"years" = "Anos";
+
+// More view
+"show_appstore" = "Exibir na AppStore";
+"version" = "versão:";
+"rate_app" = "Avalie o aplicativo";
+"other_apps" = "Nossos outros aplicativos";

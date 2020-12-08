@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Días Calc";
+
+"today" = "Hoy";
+"1day" = "dia";
+"2days" = "dias";
+"days" = "días";
+
+"y1" = "año";
+"y2" = "años";
+"ys" = "años";
+"m1" = "mes";
+"m2" = "meses";
+"ms" = "meses";
+"w1" = "semana";
+"w2" = "semanas";
+"ws" = "semanas";
+
+// Settings
+"title_text" = "Días Calc opera con fechas y días";
+"description1" = "Usualmente, los días se cuentan como\n«De hoy a mañana hay 1 día»";
+"description2" = "A veces es necesario\ncontar por otro método.";
+"description3" = "«Hoy y mañana son 2 días»";
+"description4" = "«Entre hoy y mañana hay 0 días»";
+"choose_method" = "Elige el método calc:";
+
+"hint0" = "De hoy a mañana hay 1 día";
+"hint1" = "Hoy y mañana son 2 días";
+"hint2" = "Entre hoy y mañana hay 0 días";
+
+"days_mode" = "Mostrar";
+"days_only" = "Solo dias";
+"weeks" = "Semanas";
+"years" = "Años";
+
+// More view
+"show_appstore" = "Mostrar en la AppStore";
+"version" = "versión:";
+"rate_app" = "Califica la aplicación";
+"other_apps" = "Nuestras otras aplicaciones";

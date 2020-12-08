@@ -1,0 +1,7 @@
+ ‣ tilføjer antallet af dage fra den valgte dato og finder den nye dato
+ ‣ finder differencen mellem to datoer i antal dage, uger eller år
+
+Den gemmer også den sidst udregnede dato og opdaterer når du starter appen. Du vil finde ud af:
+ ‣ hvilken dato det er efter et specifikt antal dage
+ ‣ hvor mange dage der er til den specifikke dato
+ ‣ hvor mange dage der er gået siden den dato

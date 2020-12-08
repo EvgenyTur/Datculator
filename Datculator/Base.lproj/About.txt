@@ -1,0 +1,8 @@
+ ‣ adds the number of days to specified date and finds the new date
+ ‣ finds the difference between two dates in number of days, weeks, or years
+
+It also saves the last calculated date and updates it when launching.
++ You will know:
+ ‣ which date it will be after a specific period of days
+ ‣ how many days remain until specific date
+ ‣ how many days have passed since specific date

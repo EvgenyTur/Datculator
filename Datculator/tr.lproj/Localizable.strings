@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Gün hesaplayıcısı";
+
+"today" = "Bugün";
+"1day" = "gün";
+"2days" = "gün";
+"days" = "gün";
+
+"y1" = "yıl";
+"y2" = "yıl";
+"ys" = "yıl";
+"m1" = "ay";
+"m2" = "ay";
+"ms" = "ay";
+"w1" = "hafta";
+"w2" = "hafta";
+"ws" = "hafta";
+
+// Settings
+"title_text" = "Gün hesaplayıcısı tarih ve günlerle çalışır";
+"description1" = "Genellikle, günler şu şekilde sayılır\n“Bugünden yarına 1 gün”";
+"description2" = "Bazen başka bir yöntemle saymak gerekir.";
+"description3" = "”Bugün ve yarın 2 gün”";
+"description4" = "“Bugün ile yarın arasında 0 gün”";
+"choose_method" = "Hesaplama yöntemini seçin:";
+
+"hint0" = "Bugünden yarına 1 gün";
+"hint1" = "Bugün ve yarın 2 gün";
+"hint2" = "Bugün ile yarın arasında 0 gün";
+
+"days_mode" = "Göstermek";
+"days_only" = "Gün";
+"weeks" = "Hafta";
+"years" = "Yıl";
+
+// More view
+"show_appstore" = "AppStore'da göster";
+"version" = "sürüm:";
+"rate_app" = "Uygulamayı oyla";
+"other_apps" = "Våra andra appar...";

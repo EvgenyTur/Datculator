@@ -1,0 +1,7 @@
+ ‣ legger til antall dager til en spesifikk dato og finner den nye datoen
+ ‣ finner forskjellen mellom to datum i antall dager, uker eller år
+
+Den lagrer også den siste kalkulerte datoen og oppdaterer den når den starter. Du bør vite:
+ ‣ hvilken dato det vil være etter en viss periode
+ ‣ hvor mange dager som gjenstår til den angitte datoen
+ ‣ hvor mange dager har gått siden den datoen.

@@ -1,0 +1,7 @@
+ ‣ ajoute le nombre de jours à la date spécifiée et trouve la nouvelle date
+ ‣ trouve la différence entre deux dates en nombre de jours, de semaines ou d'années
+
+Il enregistre également la dernière date calculée et la met à jour au moment du lancement. Vous le saurez :
+ ‣ la date à laquelle elle sera postérieure à un certain nombre de jours
+ ‣ le nombre de jours restant avant la date précise
+ ‣ combien de jours se sont écoulés depuis cette date

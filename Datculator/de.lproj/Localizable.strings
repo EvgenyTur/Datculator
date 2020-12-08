@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Tagesrechner";
+
+"today" = "Heute";
+"1day" = "Tag";
+"2days" = "Tage";
+"days" = "Tage";
+
+"y1" = "Jahr";
+"y2" = "Jahre";
+"ys" = "Jahre";
+"m1" = "Monat";
+"m2" = "Monate";
+"ms" = "Monate";
+"w1" = "Woche";
+"w2" = "Wochen";
+"ws" = "Wochen";
+
+// Settings
+"title_text" = "Tageszähler, der Daten und Tage zählt";
+"description1" = "Üblicherweise werden die Tage wie folgt gezählt\n„Von heute bis morgen ist 1 Tag“";
+"description2" = "Manchmal ist es notwendig, nach einer\nanderen Methode zu zählen";
+"description3" = "„Heute und morgen sind 2 Tage“";
+"description4" = "„Zwischen heute und morgen sind 0 Tage“";
+"choose_method" = "Wählen Sie die Berechnungsmethode:";
+
+"hint0" = "Von heute bis morgen ist 1 Tag";
+"hint1" = "Heute und morgen sind 2 Tage";
+"hint2" = "Zwischen heute und morgen sind 0 Tage";
+
+"days_mode" = "Anzeigen";
+"days_only" = "Tage";
+"weeks" = "Wochen";
+"years" = "Jahre";
+
+// More view
+"show_appstore" = "Im AppStore anzeigen";
+"version" = "Version:";
+"rate_app" = "Bewerten Sie die App";
+"other_apps" = "Unsere anderen Apps";

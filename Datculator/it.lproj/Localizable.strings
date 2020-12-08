@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Giorni calc";
+
+"today" = "Oggi";
+"1day" = "giorno";
+"2days" = "giorni";
+"days" = "giorni";
+
+"y1" = "anno";
+"y2" = "anni";
+"ys" = "anni";
+"m1" = "mese";
+"m2" = "mesi";
+"ms" = "mesi";
+"w1" = "settimana";
+"w2" = "settimane";
+"ws" = "settimane";
+
+// Settings
+"title_text" = "Giorni calc opera con date e giorni";
+"description1" = "Di solito, i giorni vengono conteggiati come\n«Da oggi a domani è di 1 giorno»";
+"description2" = "A volte è necessario \ncontare con un altro metodo.";
+"description3" = "«Oggi e domani sono 2 giorni»";
+"description4" = "«Tra oggi e domani 0 giorni»";
+"choose_method" = "Scegliere il metodo di calcolo:";
+
+"hint0" = "Da oggi a domani è di 1 giorno";
+"hint1" = "Oggi e domani sono 2 giorni";
+"hint2" = "Tra oggi e domani 0 giorni";
+
+"days_mode" = "Mostra";
+"days_only" = "Giorni";
+"weeks" = "Settimane";
+"years" = "Anni";
+
+// More view
+"show_appstore" = "Mostra in AppStore";
+"version" = "versione:";
+"rate_app" = "Valuta l'app";
+"other_apps" = "Le nostre altre app";

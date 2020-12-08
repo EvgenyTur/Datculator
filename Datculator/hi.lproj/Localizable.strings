@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Datculator";
+
+"today" = "Today";
+"days" = "days";
+"add_days" = "Get date by adding days to today";
+"up_to_date" = "Get days from today to the bottom date";
+"from_date" = "Get days from the top date to today";
+"days_between" = "How many days between two dates";
+"add_day" = "Get date by adding days to the top date";
+
+// Settings
+"title_text" = "Datculator is calculating dates and days.";
+"description" = "1 दिन - सुधार के बिना, दिन आज से कल के रूप में अनुसार गिने जाते हैं ।  लेकिन यह संभव है कि एक सुधार के साथ गिनती. कभी कभी आपको लगता है कि आज और कल 2 दिन हैं की जरूरत है. और कभी कभी कि कल तक 0 दिन. नीचे दिए गए उदाहरण:";
+
+"hint0" = "From today to tomorrow 1 day";
+"hint1" = "Today and tomorrow = 2 days";
+"hint2" = "Today up to tomorrow 0 days";
+
+"choose_mode" = "Choose mode:";
+"without_correction" = "No correction";
+"add_today" = "+1: Count first day";
+"remove_day" = "-1: Don't count last day";
+
+"show_appstore" = "Show in AppStore";
+"version" = "version:";

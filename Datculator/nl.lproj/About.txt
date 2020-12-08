@@ -1,0 +1,7 @@
+ ‣ voegt het aantal dagen toe aan de opgegeven datum en vindt de nieuwe datum
+ ‣ vindt het verschil tussen twee data in aantal dagen, weken of jaren
+
+Het slaat ook de laatst berekende datum op en werkt deze bij bij de lancering bij. U zult het weten:
+ ‣ welke datum het zal zijn na een specifieke periode van dagen
+ ‣ hoeveel dagen er nog over zijn tot de specifieke datum
+ ‣ hoeveel dagen zijn er verstreken sinds die datum

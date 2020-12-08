@@ -1,0 +1,7 @@
+ ‣ agrega el número de días a la fecha especificada y encuentra la nueva fecha
+ ‣ encuentra la diferencia entre dos fechas en número de días, semanas o años
+
+También guarda las últimas fechas calculadas y las actualiza al iniciar, podrás saber:
+ ‣ qué fecha será después de un período específico de días
+ ‣ cuántos días quedan hasta la fecha específica
+ ‣ cuántos días han pasado desde esa fecha

@@ -1,0 +1,8 @@
+‣ fügt die Anzahl der Tage zum angegebenen Datum hinzu und findet das neue Datum
+‣ findet die Differenz zwischen zwei Daten in Anzahl von Tagen, Wochen oder Jahren
+
+Speichert auch die zuletzt berechneten Daten und aktualisiert sie beim Start.
+Sie finden heraus:
+‣ welches Datum es nach einem bestimmten Zeitraum von Tagen sein wird
+‣ wie viele Tage bis zu einem bestimmten Datum verbleiben
+‣ wie viele Tage seit einem bestimmten Datum vergangen sind.

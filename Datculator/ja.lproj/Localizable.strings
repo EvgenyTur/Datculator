@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "日数カルキュレーター";
+
+"today" = "今日";
+"1day" = "日";
+"2days" = "日";
+"days" = "日";
+
+"y1" = "年";
+"y2" = "年";
+"ys" = "年";
+"m1" = "ヶ月";
+"m2" = "ヶ月";
+"ms" = "ヶ月";
+"w1" = "週";
+"w2" = "週";
+"ws" = "週";
+
+// Settings
+"title_text" = "日数カルキュレータ は日付と日数で操作するアプリです。";
+"description1" = "通常、日数は以下のように計算されます。\n「今日から明日までを1日として計算する」";
+"description2" = "場合によっては、別の方法で計算する必要があります。";
+"description3" = "「今日と明日とで2日として計算する」";
+"description4" = "「今日と明日の間は0日として計算する」";
+"choose_method" = "計算方法を選んで下さい:";
+
+"hint0" = "今日から明日までを1日として計算する";
+"hint1" = "今日と明日とで2日として計算する";
+"hint2" = "今日と明日の間は0日として計算する";
+
+"days_mode" = "表示単位";
+"days_only" = "日";
+"weeks" = "週";
+"years" = "年";
+
+// More view
+"show_appstore" = "AppStoreで見る";
+"version" = "バージョン";
+"rate_app" = "アプリを評価する";
+"other_apps" = "私たちの他のアプリ";

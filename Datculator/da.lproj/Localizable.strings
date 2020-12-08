@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Dato regner";
+
+"today" = "I dag";
+"1day" = "Dag";
+"2days" = "Dage";
+"days" = "Dage";
+
+"y1" = "År";
+"y2" = "År";
+"ys" = "År";
+"m1" = "Måned";
+"m2" = "Måneder";
+"ms" = "Måneder";
+"w1" = "Uge";
+"w2" = "Uger";
+"ws" = "Uger";
+
+// Settings
+"title_text" = "Dato regner bruger datoer og dage";
+"description1" = "Nomalt tælles dage som:\n«Fra i dag til i morgen er der 1 dag»";
+"description2" = "Nogle gange er det nødvendigt at udregne ved brug af andre metoder.";
+"description3" = "«I dag og i morgen er 2 dage»";
+"description4" = "«Mellem i dag og i morgen er der 0 dage»";
+"choose_method" = "Vælg metode:";
+
+"hint0" = "Fra i dag til i morgen er der 1 dag";
+"hint1" = "I dag og i morgen er 2 dage";
+"hint2" = "Mellem i dag og i morgen er der 0 dage";
+
+"days_mode" = "Vis";
+"days_only" = "Dage";
+"weeks" = "Uger";
+"years" = "År";
+
+// More view
+"show_appstore" = "Vis i AppStore";
+"version" = "Version:";
+"rate_app" = "Bedøm appen";
+"other_apps" = "Vores andre apps";

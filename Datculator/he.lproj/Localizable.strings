@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "מחשבון תאריכים";
+
+"today" = "היום";
+"days" = "ימים";
+"add_days" = "תאריך על ידי הוספת ימים עד היום";
+"up_to_date" = "ימים מן היום תאריך";
+"from_date" = "ימים מ התאריך היום";
+"days_between" = "ימים בין שני תאריכים";
+"add_day" = "הוספת ימים לתאריך.";
+
+// Settings
+"title_text" = "האפליקציה מחשבת תאריכים וימים";
+"description" = "ללא תיקון, הימים נספרים לפי היום עד מחר-יום אחד. אבל אפשר לספור עם תיקון. לפעמים אתה צריך להניח שהיום ומחר הם יומיים. ולפעמים זה עד מחר ב-0 ימים. הדוגמה שמתחת:";
+
+"hint0" = "מהיום למחר יום אחד";
+"hint1" = "היום ומחר = 2 ימים";
+"hint2" = "היום עד מחר עד 0 ימים";
+
+"choose_mode" = "בחר מצב:";
+"without_correction" = "אין תיקון";
+"add_today" = "+1: היום הראשון לספירה";
+"remove_day" = "-1: אל תחשיב את היום האחרון.";
+
+"show_appstore" = "Show in AppStore";
+"version" = "גירסה:";

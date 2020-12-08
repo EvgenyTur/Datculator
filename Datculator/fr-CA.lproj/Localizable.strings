@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Calc jours";
+
+"today" = "Aujourd'hui";
+"1day" = "jour";
+"2days" = "jours";
+"days" = "jours";
+
+"y1" = "année";
+"y2" = "années";
+"ys" = "années";
+"m1" = "mois";
+"m2" = "mois";
+"ms" = "mois";
+"w1" = "semaine";
+"w2" = "semaines";
+"ws" = "semaines";
+
+// Settings
+"title_text" = "Le calcul des jours s'effectue à l'aide de dates et de jours";
+"description1" = "Habituellement, les jours sont comptés comme\n«D'aujourd'hui à demain, c'est 1 jour».";
+"description2" = "Il est parfois nécessaire\nde compter par une autre méthode.";
+"description3" = "«Aujourd'hui et demain sont 2 jours»";
+"description4" = "«Entre aujourd'hui et demain, il y a 0 jour»";
+"choose_method" = "Choisissez la méthode de calcul :";
+
+"hint0" = "D'aujourd'hui à demain, c'est 1 jour";
+"hint1" = "Aujourd'hui et demain sont 2 jours";
+"hint2" = "Entre aujourd'hui et demain, il y a 0 jour";
+
+"days_mode" = "Afficher";
+"days_only" = "Jours";
+"weeks" = "Semaines";
+"years" = "Années";
+
+// More view
+"show_appstore" = "Afficher dans l'AppStore";
+"version" = "version :";
+"rate_app" = "Évaluer l'application";
+"other_apps" = "Nos autres applis";

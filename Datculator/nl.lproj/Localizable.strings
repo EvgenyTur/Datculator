@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Datculator
+
+  Created by Evgeny Turchaninov on 20.03.2020.
+  Copyright © 2020 Evgeny Turchaninov. All rights reserved.
+*/
+
+"main_title" = "Dagen Teller";
+
+"today" = "Vandaag";
+"1day" = "dag";
+"2days" = "dagen";
+"days" = "dagen";
+
+"y1" = "jaar";
+"y2" = "jaren";
+"ys" = "jaren";
+"m1" = "maand";
+"m2" = "maanden";
+"ms" = "maanden";
+"w1" = "week";
+"w2" = "weken";
+"ws" = "weken";
+
+// Settings
+"title_text" = "Dagencalculatie werkt op basis van data en dagen";
+"description1" = "Meestal worden de dagen geteld als\n„Van vandaag tot morgen is 1 dag“";
+"description2" = "Soms is het nodig om op\neen andere manier te tellen.";
+"description3" = "„Vandaag en morgen zijn 2 dagen“";
+"description4" = "„Tussen vandaag en morgen zijn er 0 dagen“";
+"choose_method" = "Kies calculatiemethode:";
+
+"hint0" = "Van vandaag tot morgen is 1 dag";
+"hint1" = "Vandaag en morgen zijn 2 dagen";
+"hint2" = "Tussen vandaag en morgen zijn er 0 dagen";
+
+"days_mode" = "Tonen";
+"days_only" = "Dagen";
+"weeks" = "Weken";
+"years" = "Jaren";
+
+// More view
+"show_appstore" = "Toon in AppStore";
+"version" = "versie:";
+"rate_app" = "Beoordeel de app";
+"other_apps" = "Onze andere apps";

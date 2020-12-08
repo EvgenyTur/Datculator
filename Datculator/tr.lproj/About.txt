@@ -1,0 +1,7 @@
+ ‣ belirtilen tarihe gün sayısını ekler ve yeni tarihi bulur
+ ‣ gün, hafta veya yıl sayısı olarak iki tarih arasındaki farkı bulur
+
+Ayrıca son hesaplanan tarihleri kaydeder ve başlatma sırasında günceller, yani şunları bileceksiniz:
+ ‣ belirli gün sayısından sonra hangi tarih olacak
+ ‣ belirli bir tarihe kadar kaç gün kaldı
+ ‣ o tarihten bu yana kaç gün geçti
